@@ -1,3 +1,4 @@
+![logo](https://github.com/codezahra/codezahra/blob/main/photo_2025-09-09_17-11-04.jpg)
 <h1 align="center">Hi 👋, I'm zahra</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <img align="right" alt="zahra" width= "400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif">
